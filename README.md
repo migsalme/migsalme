@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Estudiante de máster de Bioestadística en la UCM.
+
 <!--
 **migsalme/migsalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
